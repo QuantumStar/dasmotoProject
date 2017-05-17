@@ -1,3 +1,13 @@
+
+nav a {
+  color: gray;
+  font-size: 24px;
+  text-align: left;
+  font-family: Verdana;
+  font-style: italic;
+
+}
+
 .headerText {
   background-image: url("../pattern.jpeg");
   display: inline-block;
